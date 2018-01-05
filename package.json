@@ -16,5 +16,5 @@
     "remedial": "^1.0.7"
   },
   "main": "./index",
-  "version": "0.10.4"
+  "version": "0.10.5"
 }
