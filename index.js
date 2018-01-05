@@ -5,10 +5,10 @@
   "use strict";
 
   var FileApi = module.exports = {
-        File: require('File')
-      , FileList: require('FileList')
-      , FileReader: require('filereader')
-      , FormData: require('formdata')
+        File: require('./File')
+      , FileList: require('./FileList')
+      , FileReader: require('./FileReader')
+      , FormData: require('./FormData')
   };
 
   FileApi.isFile = function (obj) {
