@@ -7,7 +7,6 @@
   var FileApi = module.exports = {
         File: require('File')
       , FileList: require('FileList')
-    //, FileError: require('file-error')
       , FileReader: require('filereader')
       , FormData: require('formdata')
   };
