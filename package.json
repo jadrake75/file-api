@@ -12,7 +12,7 @@
   "dependencies": {
     "bufferjs": "^2.0.0",
     "foreachasync": "^5.0.5",
-    "mime": "^1.2.11",
+    "mime": "^3.0.0",
     "remedial": "^1.0.7"
   },
   "main": "./index",
